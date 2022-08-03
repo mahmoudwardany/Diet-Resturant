@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Diet-Resturant/static/css/main.6909d9db.css",
+    "main.css": "/Diet-Resturant/static/css/main.71c838a6.css",
     "main.js": "/Diet-Resturant/static/js/main.631be0dc.js",
     "static/media/bg2.jpg": "/Diet-Resturant/static/media/bg2.8510bf4a09413f8a2960.jpg",
     "static/media/3.jpg": "/Diet-Resturant/static/media/3.7b473903c755a29424d8.jpg",
@@ -11,11 +11,11 @@
     "static/media/images (2).jpg": "/Diet-Resturant/static/media/images (2).1b908a51490b3a7f6a11.jpg",
     "static/media/man1.webp": "/Diet-Resturant/static/media/man1.10b2e6a6924c43af5bc7.webp",
     "index.html": "/Diet-Resturant/index.html",
-    "main.6909d9db.css.map": "/Diet-Resturant/static/css/main.6909d9db.css.map",
+    "main.71c838a6.css.map": "/Diet-Resturant/static/css/main.71c838a6.css.map",
     "main.631be0dc.js.map": "/Diet-Resturant/static/js/main.631be0dc.js.map"
   },
   "entrypoints": [
-    "static/css/main.6909d9db.css",
+    "static/css/main.71c838a6.css",
     "static/js/main.631be0dc.js"
   ]
 }
