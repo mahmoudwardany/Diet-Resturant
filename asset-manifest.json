@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Diet-Resturant/static/css/main.cbe1ed31.css",
-    "main.js": "/Diet-Resturant/static/js/main.1c25d4de.js",
+    "main.css": "/Diet-Resturant/static/css/main.15c6a512.css",
+    "main.js": "/Diet-Resturant/static/js/main.59ee4f9d.js",
     "static/media/bg2.jpg": "/Diet-Resturant/static/media/bg2.8510bf4a09413f8a2960.jpg",
     "static/media/3.jpg": "/Diet-Resturant/static/media/3.7b473903c755a29424d8.jpg",
     "static/media/quinoa-mushrooms-lettuce-red-cabbage-spinach-cucumbers-tomatoes-bowl-buddha-dark-top-view.jpg": "/Diet-Resturant/static/media/quinoa-mushrooms-lettuce-red-cabbage-spinach-cucumbers-tomatoes-bowl-buddha-dark-top-view.2d1664778066f769f807.jpg",
@@ -11,11 +11,11 @@
     "static/media/images (2).jpg": "/Diet-Resturant/static/media/images (2).1b908a51490b3a7f6a11.jpg",
     "static/media/man1.webp": "/Diet-Resturant/static/media/man1.10b2e6a6924c43af5bc7.webp",
     "index.html": "/Diet-Resturant/index.html",
-    "main.cbe1ed31.css.map": "/Diet-Resturant/static/css/main.cbe1ed31.css.map",
-    "main.1c25d4de.js.map": "/Diet-Resturant/static/js/main.1c25d4de.js.map"
+    "main.15c6a512.css.map": "/Diet-Resturant/static/css/main.15c6a512.css.map",
+    "main.59ee4f9d.js.map": "/Diet-Resturant/static/js/main.59ee4f9d.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbe1ed31.css",
-    "static/js/main.1c25d4de.js"
+    "static/css/main.15c6a512.css",
+    "static/js/main.59ee4f9d.js"
   ]
 }
