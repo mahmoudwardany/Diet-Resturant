@@ -1,0 +1,23 @@
+.number{
+    background-color:green;
+    height:auto;
+    color: white !important;
+    overflow: hidden;
+    max-width: 100%;
+    padding: 25px 0;
+}
+.row h4,p{
+    transform: translate(10%,50%);
+}
+.pride{
+    max-width: 100%;
+    height: auto;
+    margin-top: 60px;
+    overflow: hidden;
+    background: transparent;
+}
+.pride img{
+
+    max-width: 100%;
+    
+}

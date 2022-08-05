@@ -1,0 +1,10 @@
+.footer {
+    background-color: rgb(111, 170, 23);
+    height: 50px;
+    text-align: center  !important;
+    margin:auto  !important;
+}
+.footer h5{
+line-height: 50px; 
+} 
+

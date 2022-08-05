@@ -1,0 +1,16 @@
+Nav{
+    background-color: rgb(111, 170, 23);
+}
+Nav a{
+    color:white !important;
+    font-size: 20px;
+letter-spacing: 1px;
+
+}
+Nav a:hover{
+    color: greenyellow !important;
+}
+Nav .img {
+    width: 30%;
+    border-radius: 50%;
+}

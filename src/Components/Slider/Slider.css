@@ -1,0 +1,16 @@
+.slider img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    padding: 25px 0;
+    margin-bottom: 90px;
+
+}
+.slider{
+    background-color: rgb(111, 170, 23);
+    border:1px solid rgb(111, 170, 23);
+    max-height: 100%;
+    width: 100%;
+    text-align: center;
+    margin: 20px 0;
+}
